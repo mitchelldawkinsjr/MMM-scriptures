@@ -1,11 +1,11 @@
 {
   "name": "mmm-scripture",
   "version": "1.0.0",
-  "description": “Daily Scripture module for MagicMirror2“,
-  "author": “mitchelldawkinsjr”,
-  "license": “MIT”,
+  "description": "Daily Scripture module for MagicMirror2",
+  "author": "mitchelldawkinsjr",
+  "license": "MIT",
   "dependencies": {
     "request": "^2.74.0"
   }
-  “homepage”:”https://github.com/mitchelldawkinsjr/MMM-scriptures.git”,
+  "homepage":"https://github.com/mitchelldawkinsjr/MMM-scriptures.git",
 }
